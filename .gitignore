@@ -1,0 +1,26 @@
+# LaTeX build files
+*.aux
+*.brf
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.xdv
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+
+# Local files and working folders
+.DS_Store
+tmp/
+output/
+/Group cohomology lectures.pdf
